@@ -6,4 +6,3 @@ function mostrar()
 	var nombre 
 	console.log ("Ponga su nombre de Usuario " + person); 
 }
-
