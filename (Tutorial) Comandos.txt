@@ -1,0 +1,8 @@
+Prefix: Git
+
+Agregados:
+clone (https://github.com/AkameGaRekt/CursoIngresoJS.git)
+add . (
+commit -m "mi primer commit" (
+push (por ahora es para log-in)
+status (ver los cambios / registro)
